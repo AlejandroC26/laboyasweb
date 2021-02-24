@@ -117,7 +117,7 @@
 }
  
 .fijo{
-    background-image: url('https://i.ytimg.com/vi/3m0RUGl3AGE/maxresdefault.jpg');
+    background-image: url('../img/header-background1.jpg');
     background-repeat: no-repeat;
     background-size: 100% ;
     background-attachment: fixed;
